@@ -19,6 +19,7 @@ import {
 } from "framer-motion";
 import { Toaster } from 'react-hot-toast';
 import { Events } from 'react-scroll';
+import {Analytics} from '@vercel/analytics/react'
 
 function App() {
   const [loading,setLoading] = useState(true) ;
@@ -60,6 +61,7 @@ function App() {
       </div>
       <CursorCircle />
       <motion.div className="progress" style={{ scaleX }} />
+      <Analytics />
     </ThemeProvider>
     )
   );
