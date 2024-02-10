@@ -7,6 +7,8 @@ import rishita from './img/rishita.jpg'
 import harshita from './img/harshita.jpg'
 import prachi from './img/prachi.jpg'
 import sehej from './img/sehej.jpg'
+import saanvi from './img/saanvi.jpg'
+import asmi from './img/asmi.jpg'
 
 import first from './img/1.png'
 import second from './img/2.png'
@@ -54,21 +56,21 @@ const studentData = [
   },
   { 
     name: 'Rishita Arora', 
-    designation: 'Coordinator',
+    designation: 'Coordinator + Event Management Team Lead',
     image: rishita ,
     link:'https://www.linkedin.com/in/rishita-arora-282882250?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' ,
     discription: `I'm Rishita Arora, SDC club Coordinator. Passionate about learning, I'm devoted to enhancing our software development club. Aspiring for managerial excellence, I'm dedicated to optimizing performance through collaborative efforts and efficient event coordination.` ,
   },
   { 
     name: 'Harshita Jangde', 
-    designation: 'Sub-Coordinator',
+    designation: 'Sub-Coordinator + Social Media Team Lead',
     image: harshita ,
     link:'https://www.linkedin.com/in/harshita-jangde-b57520260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' ,
     discription: `Hello everyone, I'm Harshita Jangde, a diligent individual passionate about software development and Machine Learning. Eager to contribute as a sub-coordinator, I'm dedicated to working tirelessly to support our club's initiatives, striving to ensure seamless events and fostering a collaborative environment.` ,
   },
   { 
     name: 'Prachi Tavse', 
-    designation: 'Manager',
+    designation: 'Manager + Content Team Lead',
     image: prachi ,
     link:'https://www.linkedin.com/in/prachi-tavse-32072a250/' ,
     discription: `Hello everyone, I am Prachi Tavse, SDC club's Manager, someone who's always eager to learn and dedicated to supporting our software development club. I'm committed to giving my best to help drive our club's success through teamwork and effective event management. 
@@ -81,7 +83,20 @@ const studentData = [
     link:'https://www.linkedin.com/in/sahejpreet-kaur-214b35251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' ,
     discription: `Hello, I'm Sahejpreet Kaur, an enthusiastic individual with a strong work ethic, eager to contribute as a sub-manager in our software development club. I'm dedicated to working diligently for the club's success, assisting in organizing events and fostering a collaborative environment for our members.` ,
   },
-  
+  { 
+    name: 'Asmi Vats', 
+    designation: 'Tech Team Lead',
+    image: asmi ,
+    link:'https://www.linkedin.com/in/asmivats/' ,
+    discription: `Asmi Vats, a determined second-year student, fueled by passion and unafraid to tackle any challenge that comes my way.` ,
+  },
+  { 
+    name: 'Saanvi Goel', 
+    designation: 'Design Team Lead',
+    image: saanvi ,
+    link:'https://www.linkedin.com/in/saanvi-goel-4b5b33251' ,
+    discription: `Greetings, I'm Saanvi Goel, currently in my second year of college, specializing in UI/UX design. In my role as the design lead for the SDC club, I combine creativity and technology to craft inventive solutions. I'm excited about connecting with others and venturing into uncharted territories together!` ,
+  },
 ];
 
 const facultyData = [

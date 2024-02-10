@@ -63,8 +63,8 @@ function Third({ mode }) {
         </div>
       ))}
       </div>
-
-      <div className="border-b border-dotted border-purple-500 border-t-4 border-opacity-50" />
+          
+      <div className="border-b border-dotted border-purple-500 border-t-4 border-opacity-50 mt-4" />
 
     </div>
   );
