@@ -100,10 +100,10 @@ const Header = () => {
           ))}
 
           <a
-  href="https://forms.gle/3rXK1xMgYEYV4VfT7" target="_blank"
+  href="https://forms.gle/MZLk6Lqk5wnaGBDi6" target="_blank"
   className="select-none bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 font-poppins text-xl p-2 mx-4 xl:mx-3 xl:ml-8 xl:my-0 my-5 font-semibold rounded-full"
 >
-  RECRUITMENT
+  REGISTER NOW
 </a>
 </ul>
 
